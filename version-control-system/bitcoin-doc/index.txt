@@ -4,3 +4,13 @@ Bitcoin es una criptomoneda digital creada en 2009 por una persona o grupo bajo 
 No está controlada por ningún gobierno o banco, y utiliza una tecnología llamada blockchain para registrar de
 manera segura todas las transacciones. Es una forma de dinero descentralizada que se usa para comprar productos,
 servicios e invertir. Su oferta está limitada a 21 millones de unidades.
+
+
+
+Bitcoin ha revolucionado la forma en que entendemos el dinero y las transacciones financieras. A diferencia de las
+monedas tradicionales, Bitcoin no depende de un banco o gobierno central, lo que le da un carácter descentralizado y 
+más accesible para cualquier persona con acceso a internet. Su sistema basado en blockchain asegura que todas las 
+transacciones sean transparentes y casi imposibles de alterar, lo que lo convierte en una alternativa segura y confiable.
+Además, su oferta limitada de 21 millones de bitcoins le otorga un valor especial, similar al de los metales preciosos, lo
+que atrae tanto a usuarios como a inversores que buscan proteger su capital. A medida que aumenta su adopción,
+Bitcoin se perfila como una forma viable de dinero digital para el futuro.
