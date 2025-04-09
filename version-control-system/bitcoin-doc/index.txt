@@ -1,1 +1,6 @@
-¿Qué es Bitcoin?
+¿Qué git  es Bitcoin?
+
+Bitcoin es una criptomoneda digital creada en 2009 por una persona o grupo bajo el nombre de Satoshi Nakamoto.
+No está controlada por ningún gobierno o banco, y utiliza una tecnología llamada blockchain para registrar de
+manera segura todas las transacciones. Es una forma de dinero descentralizada que se usa para comprar productos,
+servicios e invertir. Su oferta está limitada a 21 millones de unidades.
