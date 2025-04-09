@@ -14,3 +14,8 @@ transacciones sean transparentes y casi imposibles de alterar, lo que lo convier
 Además, su oferta limitada de 21 millones de bitcoins le otorga un valor especial, similar al de los metales preciosos, lo
 que atrae tanto a usuarios como a inversores que buscan proteger su capital. A medida que aumenta su adopción,
 Bitcoin se perfila como una forma viable de dinero digital para el futuro.
+
+En resumen, Bitcoin ha transformado el panorama financiero al ofrecer una alternativa descentralizada,
+segura y accesible para realizar transacciones. Su tecnología innovadora y su oferta limitada le dan un
+valor único, lo que lo convierte en una opción cada vez más popular tanto para usuarios como para inversores. 
+A medida que crece su adopción, Bitcoin podría seguir jugando un papel clave en el futuro de las finanzas digitales.
