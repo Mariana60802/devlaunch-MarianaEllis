@@ -1,0 +1,23 @@
+Proporcionar una explicacion detallada en un archivo .txt  de las acciones que  relacionarias al prepararte para conducir un coche.
+
+Este ejercicio esta diseñado para ayudarte a entender los conceptos basicos de los algoritmos al darte un ejemplo del mundo real sobre
+como llevar tu covhe a dar un paseo.
+
+SOLUCION:
+
+Busco las llaves.
+Me dirijo al coche.
+
+El coche esta abierto?
+-Si esta descloqueado,Abro la puerta.
+-Si esta bloqueado, uso llave para desbloquear el coche y abro la puerta. 
+
+Me siento en el coche.
+Se coloca el cinturon.
+Coloco la llaves para enceder el coche.
+Se presiona el freno y quita el freno de mano.
+Cambio la marcha para salir.
+
+Existe algun obstaculo?
+-Si, espero para poder continuar.
+-No, continuo para inicial el paseo.
