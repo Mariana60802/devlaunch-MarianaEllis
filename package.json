@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Mariana60802/devlaunch-MarianaEllis/issues"
   },
-  "homepage": "https://github.com/Mariana60802/devlaunch-MarianaEllis#readme"
+  "homepage": "https://github.com/Mariana60802/devlaunch-MarianaEllis#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
