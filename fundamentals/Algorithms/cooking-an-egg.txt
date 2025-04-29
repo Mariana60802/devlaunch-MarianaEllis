@@ -1,0 +1,15 @@
+Proporcionar una explicacion detallada de como cocinar un huevo
+
+SOLUCION:
+
+Sacar los utilcilios para cocinar un huevo e ingredientes. Sarten, espatula,plato. Huevo y sal.
+
+Colocar el sarten en la disco de la cocina.
+Encender la cocina
+Esperar a que caliente el sarten
+Ponerle aceite al sarten
+Abrir el huevo y ponerlo en el sarten
+Esperar a que se cocine el huevo
+Sacarlo con una espatula en un plato.
+Agrega sal al huevo
+Apaga la cocina.
